@@ -17,9 +17,6 @@ My research interest includes computer vision, deep learning.
 
 ### Journal
 
-Cascade Convolutional Neural Network with Progressive Optimization for Motor Fault Diagnosis Under Non-stationary Conditions  
-**Fei Wang**, Ruonan Liu, Qinghua Hu, and Xuefeng Chen  
-2020，([IEEE TII](https://ieeexplore.ieee.org/document/9120176), IF:7.377)
 
 [1]	**Xiaoheng Jiang**, Li Zhang, Pei Lv, Bing Zhou, Yanwei Pang, Mingliang Xu, Learning Multi-Level Density Maps for Crowd Counting, IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 31(8): 2705-2715，2020（中科院SCI 1区）
 
