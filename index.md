@@ -1,5 +1,5 @@
 ## Biography
-I received the PH.D. degree in Information and Communication Engineering from Tianjin University, advised by [Prof. Yanwei Pang](http://seea.tju.edu.cn/info/1014/1455.htm), where I also received my B.E. and M.E degree, dvised by [Prof. Yanwei Pang](http://seea.tju.edu.cn/info/1014/1455.htm). Since 2017, I have worked in school of Information Engineering of Zhengzhou University.  
+I received the PH.D. degree in Information and Communication Engineering from Tianjin University, advised by [Prof. Yanwei Pang](http://seea.tju.edu.cn/info/1014/1455.htm), where I also received my B.E. and M.E degree, advised by [Prof. Yanwei Pang](http://seea.tju.edu.cn/info/1014/1455.htm). Since 2017, I have worked in school of Information Engineering of Zhengzhou University.  
 My research interest includes computer vision, deep learning.  
 
 ## News
@@ -11,7 +11,7 @@ My research interest includes computer vision, deep learning.
 
 ### Conference
 
-[1]	Jiang Xiaoheng, Zhang Li, Xu Mingliang, Zhang Tianzhu, Lv Pei, Zhou Bing, Yang Xin, Pang Yanwei. Attention scaling for crowd counting. IEEE Conference on Computer Vision and Pattern Recognition（CVPR）, 2020. CCF-A 类会议
+[1]	**Jiang Xiaoheng**, Zhang Li, Xu Mingliang, Zhang Tianzhu, Lv Pei, Zhou Bing, Yang Xin, Pang Yanwei. Attention scaling for crowd counting. <font color=blue>IEEE Conference on Computer Vision and Pattern Recognition（CVPR）</font>, 2020. CCF-A 类会议
 
 
 
