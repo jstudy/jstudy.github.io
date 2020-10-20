@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Biography
+I received the PH.D. degree in Information and Communication Engineering from Tianjin University, advised by [Prof. Yanwei Pang](http://seea.tju.edu.cn/info/1014/1455.htm), where I also received my B.E. and M.E degree, dvised by [Prof. Yanwei Pang](http://seea.tju.edu.cn/info/1014/1455.htm). Since 2017, I have worked in school of Information Engineering of Zhengzhou University.  
+My research interest includes computer vision, deep learning.  
 
-You can use the [editor on GitHub](https://github.com/jstudy/jstudy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## News
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1 papers was accepted by [CVPR 2020](https://openaccess.thecvf.com/CVPR2020), July 16-18, 2020. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
+### Conference
 
-# Header 1
-## Header 2
-### Header 3
+[1]	Jiang Xiaoheng, Zhang Li, Xu Mingliang, Zhang Tianzhu, Lv Pei, Zhou Bing, Yang Xin, Pang Yanwei. Attention scaling for crowd counting. IEEE Conference on Computer Vision and Pattern Recognition（CVPR）, 2020. CCF-A 类会议
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Journal
 
-[Link](url) and ![Image](src)
-```
+Cascade Convolutional Neural Network with Progressive Optimization for Motor Fault Diagnosis Under Non-stationary Conditions  
+**Fei Wang**, Ruonan Liu, Qinghua Hu, and Xuefeng Chen  
+2020，([IEEE TII](https://ieeexplore.ieee.org/document/9120176), IF:7.377)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[1]	**Xiaoheng Jiang**, Li Zhang, Pei Lv, Bing Zhou, Yanwei Pang, Mingliang Xu, Learning Multi-Level Density Maps for Crowd Counting, IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 31(8): 2705-2715，2020（中科院SCI 1区）
 
-### Jekyll Themes
+[2]	**Jiang Xiaoheng**, Zhang Li, Zhang Tianzhu, Lv Pei, Zhou Bing, Pang Yanwei, Xu Mingliang, Xu Changsheng. Density-aware multi-task learning for crowd counting. IEEE Transactions on Multimedia (TMM), DOI: 10.1109/TMM.2020.2980945.（中科院SCI 1区）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jstudy/jstudy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[3]	**Xiaoheng Jiang**, Yanwei Pang, Manli Sun, Xuelong Li. Cascaded Subpatch Networks for Effective CNNs. IEEE Transactions on Neural Networks and Learning Systems（TNNLS）29 (7), 2684-2694, 2018 （中科院SCI 1区）
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
