@@ -25,5 +25,5 @@ Cascade Convolutional Neural Network with Progressive Optimization for Motor Fau
 
 [2]	**Jiang Xiaoheng**, Zhang Li, Zhang Tianzhu, Lv Pei, Zhou Bing, Pang Yanwei, Xu Mingliang, Xu Changsheng. Density-aware multi-task learning for crowd counting. IEEE Transactions on Multimedia (TMM), DOI: 10.1109/TMM.2020.2980945.（中科院SCI 1区）
 
-[3]	**Xiaoheng Jiang**, Yanwei Pang, Manli Sun, Xuelong Li. Cascaded Subpatch Networks for Effective CNNs. IEEE Transactions on Neural Networks and Learning Systems（TNNLS）29 (7), 2684-2694, 2018 （中科院SCI 1区）
+[3]	**Xiaoheng Jiang**, Yanwei Pang, Manli Sun, Xuelong Li. Cascaded Subpatch Networks for Effective CNNs. IEEE Transactions on Neural Networks and Learning Systems（TNNLS）29 (7), 2684-2694, 2018 （中科院SCI 1区)
 
