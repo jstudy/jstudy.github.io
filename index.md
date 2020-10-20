@@ -12,7 +12,7 @@ My research interest includes computer vision, deep learning.
 ### Conference
 
 [1]	**Jiang Xiaoheng**, Zhang Li, Xu Mingliang, Zhang Tianzhu, Lv Pei, Zhou Bing, Yang Xin, Pang Yanwei. Attention scaling for crowd counting. 
-<font color='red'> IEEE Conference on Computer Vision and Pattern Recognition（CVPR）</font>, 2020. CCF-A 类会议
+    <font color='red'> IEEE Conference on Computer Vision and Pattern Recognition（CVPR）</font>, 2020. CCF-A 类会议
 
 
 
