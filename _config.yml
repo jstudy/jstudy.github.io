@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+title: [Xiaoheng Jiang]
+description: jiangxiaoheng@zzu.edu.cn
+logo: fig/my-photo.jpg
+url: [zzu](https://www.baidu.com/){：target =" _self"} 
+show_downloads: false
+google_analytics: 
+plugins:
+  - jemoji
