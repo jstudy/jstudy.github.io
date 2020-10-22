@@ -2,9 +2,7 @@ theme: jekyll-theme-minimal
 title: [Xiaoheng Jiang]
 description: jiangxiaoheng@zzu.edu.cn
 logo: fig/my-photo.jpg
-subtitle: [ZZU]
-exturl: true
-url: (http://xg.zzu.edu.cn/bdsd/1599528894250.jhtml){：target =" _self"} 
+url: (https://www.baidu.com/){：target =" _self"} 
 show_downloads: false
 google_analytics: 
 plugins:
