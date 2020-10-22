@@ -2,8 +2,7 @@ theme: jekyll-theme-minimal
 title: [Xiaoheng Jiang]
 description: jiangxiaoheng@zzu.edu.cn
 logo: fig/my-photo.jpg
-url: <a href="https://github.com/Li-Chongyi/" target="_blank">[GitHub]</a>  
-url: "https://github.com/Li-Chongyi/"  
+url: http://xg.zzu.edu.cn/bdsd/1599528894250.jhtml
 show_downloads: false
 google_analytics: 
 plugins:
